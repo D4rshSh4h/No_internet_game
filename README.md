@@ -8,5 +8,5 @@ Coded and compiled with the Arduino IDE
 
 If you have any ideas/fixes for the code don't hesitate to contribute them!
 
-#Credits
+# Credits
 - Servo control from the Arduino Servo library (*link:* https://www.arduino.cc/reference/en/libraries/servo/)
